@@ -1,2 +1,0 @@
-package extraactivity.part2
-
